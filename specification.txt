@@ -1,0 +1,7 @@
+10 HTML tags: h1, p, nav, div, button, ul, li, a, img, input,form
+5 CSS properties: body, p, #me, #text, .Jack
+One-sentence description of how I chose to use JavaScript and Bootstrap: I chose to use the Navbar
+from bootstrap because it was going to be helpful when trying to figure out how to move from one
+.html page to another and it helped me keep my website organized, I chose to make my website
+personalized and used JavaScript to add a feature that responded to the user's input of a name using
+querySelector and addEventListener in JavaScript.
